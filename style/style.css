@@ -1,0 +1,9 @@
+*{
+    margin: 0; 
+    padding: 0; 
+}
+
+div.content{
+    height: 500px;
+    background-color: #1f2937;
+}
