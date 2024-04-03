@@ -4,6 +4,48 @@
 }
 
 div.content{
+
     height: 500px;
     background-color: #1f2937;
 }
+
+div.navbar{
+    margin: 0;
+    /*width: 500px;*/
+    background-color: white;
+}
+
+/*h2{
+    /*background-color: black;
+    
+    display: flex;
+    flex-basis: content;
+    justify-content: flex-start;
+}*/
+/*h2.logo{
+    display: flex;
+    flex-direction: row;
+    
+    font-size: 24px;
+    width: 48px;
+   
+
+}*/
+.nav{
+    display: flex;
+   /* flex-direction: row;*/
+    flex-wrap: wrap;
+    flex-basis: content;
+    justify-content: flex-end;
+}
+h2.logo{
+    display: flex;
+    flex-basis: content;
+    justify-content: flex-start;
+    text-align: left;
+}
+
+/*.link{
+    display: inline-block;
+}*/
+
